@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2017, 12:24:11 AM
+    Author     : Ethan
+*/
+
+.button{
+    -fx-background-radius: 10px;
+    -fx-background-color: #c2ff6b;
+    /*-fx-font: arial;
+    -fx-font-size: 30;*/
+}
+
+.button-options{
+    -fx-background-radius: 10px;
+    -fx-background-color: #86B050;
+}
+
+.space-black{
+    -fx-background-radius: 10px;
+    -fx-background-color: #000000;
+}
+
+.space-white{
+    -fx-background-radius: 10px;
+    -fx-background-color: #ffffff;
+}
+
+.space-blue{
+    -fx-background-radius: 10px;
+    -fx-background-color: #0000ff;
+}
+
+.space-red{
+    -fx-background-radius: 10px;
+    -fx-background-color: #ff0000;
+}
+
+.board-background{
+    -fx-background-color:#228B22;
+}
+
+.countBlack{
+    -fx-text-fill:#ffffff;
+    -fx-font: 15px Tahoma;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-background-color: #000000;
+}
+
+.countWhite{
+    -fx-text-fill:#000000;
+    -fx-font: 15px Tahoma;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-background-color: #ffffff;
+}
+
+.countBlue{
+    -fx-text-fill:#ffffff;
+    -fx-font: 15px Tahoma;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-background-color: #0000ff;
+}
+
+.countRed{
+    -fx-text-fill:#ffffff;
+    -fx-font: 15px Tahoma;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-background-color: #ff0000;
+}
+
+#playerPrompt{
+    -fx-font: 23px Tahoma;
+    -fx-text-fill:#ffffff;
+    -fx-text-stroke: black;
+    -fx-font-weight:bold;
+}
+
+
+
+
